@@ -5,7 +5,7 @@ Use the 4th-order Runge-Kutta integration method to find solutions for polytrope
 
 ### Lane-Emden polytrope equation
 
-\begin{align*} \frac{1}{\xi^2}\frac{d}{d\xi}(\xi^2\frac{d\theta}{d\xi}) = -\theta^n \end{align*}
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\begin{align*}&space;\frac{1}{\xi^2}\frac{d}{d\xi}(\xi^2\frac{d\theta}{d\xi})&space;=&space;-\theta^n&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\inline&space;\begin{align*}&space;\frac{1}{\xi^2}\frac{d}{d\xi}(\xi^2\frac{d\theta}{d\xi})&space;=&space;-\theta^n&space;\end{align*}" title="\begin{align*} \frac{1}{\xi^2}\frac{d}{d\xi}(\xi^2\frac{d\theta}{d\xi}) = -\theta^n \end{align*}" /></a>
 
 We can rewrite this as 2 first order equations:
 
